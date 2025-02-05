@@ -24,19 +24,12 @@
 🎯 **Goal:** Master AI for **real-world problem-solving & research** 📊  
 📖 **Preparing For:** DSA & GATE 📚💡  
 
-<---
-
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhranilkundu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranilkundu&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhranilkundu&theme=dark)  
-
---->
+---
 
 ## 🌍 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhranilkundu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhranilkundu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhranil-kundu-31baaa293/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhraweb89)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-📧 **Email:** shubhranilkundu@example.com  
+📧 **Email:** shubhranilkundu536@gmail.com  
 
 💡 *"Every great innovation starts with a curious mind!"* 🚀  
