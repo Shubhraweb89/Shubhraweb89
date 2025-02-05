@@ -8,6 +8,7 @@
 🔹 Love contributing to **open-source projects** & building **innovative solutions**  
 🔹 Currently working on **AI-based Crop Disease Detection (Farmers Disease Diagnostic Portal)** 🌱  
 
+</div>
 ---
 
 ## 🛠 **Tech Stack & Tools**  
@@ -54,4 +55,4 @@ Ethical Hacking | CTF Challenges | Cyber Awareness
 
 💡 *"Every great innovation starts with a curious mind!"* 🚀  
 
-</div>
+
