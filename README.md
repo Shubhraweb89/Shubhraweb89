@@ -1,5 +1,5 @@
 # 🚀 Hey there, I'm **Shubhranil Kundu**! 👋  
-### **👨‍💻 Developer | 🛰 Researcher | 🤖 AI Enthusiast | 🔐 Cybersecurity Learner**  
+### **👨‍💻 Developer | 🛰 Researcher | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity Learner**  
 
 🔹 Passionate about **AI/ML, Cybersecurity, Full-Stack Development, and SpaceTech**  
 🔹 Love contributing to **open-source projects** & building **innovative solutions**  
@@ -24,14 +24,14 @@
 🎯 **Goal:** Master AI for **real-world problem-solving & research** 📊  
 📖 **Preparing For:** DSA & GATE 📚💡  
 
----
+<---
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhranilkundu&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhranilkundu&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhranilkundu&theme=dark)  
 
----
+--->
 
 ## 🌍 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhranilkundu/)  
