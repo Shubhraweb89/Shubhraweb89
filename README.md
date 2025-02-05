@@ -21,6 +21,7 @@
 ##               🔥 **What I'm Currently Up To**
 🚀 **Building:** AI-based Farmers Disease Diagnostic Portal (Hackathon Project) 🌾🤖  
 📚 **Learning:** Advanced **Machine Learning**, **Artificial Intelligence** & **Full-Stack Development (MERN)**
+
 🎯 **Goal:** Master AI for **real-world problem-solving & research** 📊  
 📖 **Preparing For:** DSA & GATE 📚💡  
 
